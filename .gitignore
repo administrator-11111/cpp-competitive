@@ -1,0 +1,13 @@
+# Ejecutables y binarios
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+
+# Carpetas de compilación y editores
+build/
+.vscode/
+.idea/
+.gitignore
